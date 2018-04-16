@@ -32,14 +32,14 @@ The final results shows at least two potential customer of the bike sharing serv
 
 The start of the project immediately halt when we found that the data presented several problems.
 The data were logs of the number of exits and entries at every turnstile at every station approximately every 4 hours.
-However the sampling did not take place at the same hours and there were same issues to take into account:
+However the sampling did not take place at the same hours and there were some issues to take into account:
 
 * Duplicate number of exits (and entries) at the same turnstile at the same time
 * Turnstiles counters decrementing instead of incrementing the counter
-* Turnstile counters resetting at arbitrary 
+* Turnstile counters resetting at arbitrary time
 * Counters whose value was too high to be reasonable
 
-Bacause of these issues, we have to devise ways to get all the data cleaned up.
+Bacause of these issues, we devised first the ways to get all the data cleaned up.
 
 ### ... but then, you can start the race !
 
