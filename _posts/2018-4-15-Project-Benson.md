@@ -43,8 +43,8 @@ Bacause of these issues, we have to devise ways to get all the data cleaned up.
 
 ### ... but then, you can start the race !
 
-We evaluated first the top 10 stations with regard to the number of exits.\
-We want to provide bike to the people exiting from the metro stations, and so we focused on the exits data.\
+We evaluated first the top 10 stations with regard to the number of exits.
+We want to provide bike to the people exiting from the metro stations, and so we focused on the exits data.
 The top 10 daily stations are summarized in the table below.
 
 ![_config.yml]({{ site.baseurl }}/images/benson/CumulativeBarChart.png)
@@ -55,7 +55,7 @@ The analysis shows the possibility of using the cluster information to aggregate
 
 ### Go smooth !
 
-We move than into the analysis of median of the exits during the months. The shapes are pretty smooths, with dips near the holidays, and this indicates good forecasting potential.\ 
+We move than into the analysis of median of the exits during the months. The shapes are pretty smooths, with dips near the holidays, and this indicates good forecasting potential.
 ![_config.yml]({{ site.baseurl }}/images/benson/MedianExitsMonthsLine.png)
 The results are confirmed by increasing the granularity of the analysis.
 ![_config.yml]({{ site.baseurl }}/images/benson/MedianExitsWeeksLine.png)
@@ -63,7 +63,7 @@ The results are confirmed by increasing the granularity of the analysis.
 ### And after the work days, enjoy the weekend !!!
 In this graph we take a look of the daily  mean exits of the top 10 station.
 ![_config.yml]({{ site.baseurl }}/images/benson/MedianExitsDayLine.png)
-What immediately stands out is the presence of two different trending, one related to the working days and the other to the weekend.\
+What immediately stands out is the presence of two different trending, one related to the working days and the other to the weekend.
 This point directly to two different customer population, the working commuters and the people using it for recreation during the weekend.
 
 ### What's on the Horizon?
