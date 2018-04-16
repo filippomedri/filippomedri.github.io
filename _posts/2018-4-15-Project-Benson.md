@@ -9,19 +9,19 @@ tags:
   - Project
 ---
 
-First week at Metis, first project. :scream: \
-Gotta run... :running: \ 
-...Better... :bulb: \
-...Gotta ride.  :bicyclist: :smiley: \
+First week at Metis, first project. 
+Gotta run... 
+...Better... 
+...Gotta ride !
   
 
 ### Turning turnstiles data in two-wheeled return of investment
  
-The goal of the project was to analyze the NYC Metropolitan Transportation Authority (MTA) [turnstile data](http://web.mta.info/developers/turnstile.html "MTA Turnstile"). \
+The goal of the project was to analyze the NYC Metropolitan Transportation Authority (MTA) [turnstile data](http://web.mta.info/developers/turnstile.html "MTA Turnstile"). 
 
-We were to come up with a project proposal for possible customers and help them with new business opportunities analyzing the MTA turnstile data.\
+We were to come up with a project proposal for possible customers and help them with new business opportunities analyzing the MTA turnstile data.
 
-Our team of four decided to target bike sharing companies by offering them detailed analysis of the exits from the metro stations.\
+Our team of four decided to target bike sharing companies by offering them detailed analysis of the exits from the metro stations.
 
 The final results shows at least two potential customer of the bike sharing service:
 
